@@ -45,3 +45,8 @@
     flex: 1;
 }
 
+.hs2 img{
+    width: 100%;
+    padding-right: 50px;
+    box-sizing: border-box;
+}
